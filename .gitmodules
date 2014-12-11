@@ -1,0 +1,3 @@
+[submodule "nav"]
+	path = nav
+	url = git@git.framasoft.org:framasoft/framanav.git
