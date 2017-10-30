@@ -105,7 +105,7 @@
                         <p class="text-center" role="presentation"><span class="glyphicon glyphicon-cloud"></span></p>
                         <p>Framavectoriel repose sur le logiciel libre <a href="https://github.com/SVG-Edit/svgedit"><abbr>SVG</abbr>-<span lang="en">Edit</span></a>.</p>
                         <p>Il s'agit d’<a href="https://code.google.com/p/svg-edit/wiki/ProjectsThatUseSvgEdit">une instance parmi d'autres</a>.</p>
-                        <p><abbr>SVG</abbr>-<span lang="en">Edit</span> est sous <a href="http://creativecommons.org/licenses/by-sa/3.0/">licence <span lang="en">Creative Commons</span> 3.0 <span lang="en">By</span>-<abbr>SA</abbr></a>.</p>
+                        <p><abbr>SVG</abbr>-<span lang="en">Edit</span> est sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence <span lang="en">Creative Commons</span> 3.0 <span lang="en">By</span>-<abbr>SA</abbr></a>.</p>
                         <p>Ce logiciel requiert l’activation du javascript et des cookies. Il est compatible avec les navigateurs web suivants :</p>
                         <ul>
                             <li>Firefox 1.5+</li>
