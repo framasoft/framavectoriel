@@ -103,9 +103,9 @@
                     <div class="col-md-4" id="le-logiciel">
                         <h2>Le logiciel</h2>
                         <p class="text-center" role="presentation"><span class="glyphicon glyphicon-cloud"></span></p>
-                        <p>Framavectoriel repose sur le logiciel libre <a href="https://code.google.com/p/svg-edit/"><abbr>SVG</abbr>-<span lang="en">Edit</span></a>.</p>
+                        <p>Framavectoriel repose sur le logiciel libre <a href="https://github.com/SVG-Edit/svgedit"><abbr>SVG</abbr>-<span lang="en">Edit</span></a>.</p>
                         <p>Il s'agit d’<a href="https://code.google.com/p/svg-edit/wiki/ProjectsThatUseSvgEdit">une instance parmi d'autres</a>.</p>
-                        <p><abbr>SVG</abbr>-<span lang="en">Edit</span> est sous <a href="http://creativecommons.org/licenses/by-sa/3.0/">licence <span lang="en">Creative Commons</span> 3.0 <span lang="en">By</span>-<abbr>SA</abbr></a>.</p>
+                        <p><abbr>SVG</abbr>-<span lang="en">Edit</span> est sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence <span lang="en">Creative Commons</span> 3.0 <span lang="en">By</span>-<abbr>SA</abbr></a>.</p>
                         <p>Ce logiciel requiert l’activation du javascript et des cookies. Il est compatible avec les navigateurs web suivants :</p>
                         <ul>
                             <li>Firefox 1.5+</li>
@@ -120,7 +120,7 @@
                         <h2>Cultivez votre jardin</h2>
                         <p class="text-center" role="presentation"><span class="glyphicon glyphicon-tree-deciduous"></span></p>
                         <p>Pour participer au développement du logiciel, proposer des améliorations
-                            ou simplement le télécharger, rendez-vous sur <a href="https://code.google.com/p/svg-edit/">le site de développement</a>.</p>
+                            ou simplement le télécharger, rendez-vous sur <a href="https://github.com/SVG-Edit/svgedit">le site de développement</a>.</p>
                         <br>
                         <p>Si vous souhaitez installer ce logiciel pour votre propre usage et ainsi gagner en autonomie, nous vous aidons sur :</p>
                         <p class="text-center"><a href="http://framacloud.org/cultiver-son-jardin/installation-de-svg-edit" class="btn btn-success"><span class="glyphicon glyphicon-tree-deciduous"></span> framacloud.org</a></p>
@@ -131,4 +131,3 @@
     </div>
 </body>
 </html>
-
