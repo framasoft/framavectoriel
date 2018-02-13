@@ -1,11 +1,6 @@
 image: hatsoftwares/vnu:latest
 stages:
-  - test
   - deploy
-test:
-  stage: test
-  script:
-    - java -jar /opt/dist/vnu.jar *.html
 pages:
   stage: deploy
   script:
